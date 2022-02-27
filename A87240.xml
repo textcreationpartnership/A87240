@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the Honorable William Lenthal Esquire, speaker of the Honorable House of Commons: concerning the late successful proceedings of the Lord Inchiquine in the kingdom of Ireland. Ordered by the Commons assembled in Parliament, that this letter be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87240</idno>
+            <idno type="STC">Wing I132</idno>
+            <idno type="STC">Thomason E409_7</idno>
+            <idno type="STC">ESTC R202598</idno>
+            <idno type="EEBO-CITATION">99862826</idno>
+            <idno type="PROQUEST">99862826</idno>
+            <idno type="VID">161187</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87240)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161187)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E409[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the Honorable William Lenthal Esquire, speaker of the Honorable House of Commons: concerning the late successful proceedings of the Lord Inchiquine in the kingdom of Ireland. Ordered by the Commons assembled in Parliament, that this letter be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, Printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Sept. 28. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Inchiquine.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161187:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>A LETTER To the Honorable <hi>William Lenthal</hi> Eſquire, Speaker of the Honorable Houſe of COMMONS: Concerning The late ſucceſsful Proceedings of the Lord Inchiquine In the Kingdom of <hi>IRELAND.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons aſſembled in Parliament, That this Letter be forthwith Printed and Publiſhed.</p>
+                        <bibl>
+                           <hi>H: Elſynge, Cler. Parl. D. Com.</hi>
+                        </bibl>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Honorable Houſe of Commons, <hi>Sept.</hi> 28. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161187:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="3" facs="tcp:161187:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>A Letter to the Honorable <hi>VVilliam Lenthal</hi> 
+               <abbr>Eſq;</abbr> Speaker of the Honorable Houſe of Commons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BEing conſtrained by divers neceſ<g ref="char:EOLhyphen"/>ſities of the ſouldiers to retire a<g ref="char:EOLhyphen"/>bout five weeks ſithence out of the field, where I had been in the Rebels Quarters of the County of Limrick, be<g ref="char:EOLhyphen"/>fore I could look into the County of Tipperary; I did after ſome ſhort refreſh<g ref="char:EOLhyphen"/>ment, and the beſt (though but mean) pro<g ref="char:EOLhyphen"/>viſion which I could make for the Sol<g ref="char:EOLhyphen"/>dier, apply my ſelf and this Army forth<g ref="char:EOLhyphen"/>with again into the field: And being for want of Oxen, and other carriages unable to draw forth any Artillery, or to carry any larger proportion of bread then what the Soldiers Knap-ſacks would contain, I marched with the Army into this County
+<pb n="4" facs="tcp:161187:3"/>
+               <!-- PDF PAGE 3 -->which I entered upon on Saturday the third of this inſtant; and having taken ſeveral Caſtles therein, to the number of ten or twelve, putting to the ſword the VVarders of ſuch places as ſtood in oppo<g ref="char:EOLhyphen"/>ſition to the Army; I paſſed over the Ri<g ref="char:EOLhyphen"/>ver Shewer, not far from the Caſtle of Cahir, an ancient and eminent hold of the Rebels, environed with two branches of that River, which was obſerved to be in all appearance of that ſtrength, as it was both by them, and by the Officers of this Army, eſteemed impregnable: notwith<g ref="char:EOLhyphen"/>ſtanding which, the importancy of the place being ſeriouſly conſidered by us, we were occaſioned to make an attempt up<g ref="char:EOLhyphen"/>on it by this accident; one of our horſe-men being plundering neer the Town, was by ſome of the Rebels wounded and carried a priſoner into the Caſtle, from whence he was admitted to ſend for a Chirurgion into our Quarters to dreſs his wounds, of which we made this uſe: One Col. <hi>James Heppeſly,</hi> who had former<g ref="char:EOLhyphen"/>ly
+<pb n="5" facs="tcp:161187:3"/>
+               <!-- PDF PAGE 3 -->ſerved the King, and was (upon ſome aſſurance given me by a friend, of his do<g ref="char:EOLhyphen"/>ing ſervice) admitted to come into our Quarters, being an ingenious perſon, skil<g ref="char:EOLhyphen"/>led in Chirurgery, and in Fortifications, took upon him to go under a diſguiſe into the Caſtle, and to dreſs the wounded Trooper, which accordingly he did, with ſo good caution, and circumſpection, as that he diſcovered perfectly the condition of the Caſtle in each reſpect, the weakneſs of the VVard, and eſpecially ſome defects in the wall of the outward Bawn, which rendred it aſſaultable by our men, the ta<g ref="char:EOLhyphen"/>king whereof would probably induce the ſurrender of the Caſtle, which he collect<g ref="char:EOLhyphen"/>ed from the obſerved timorouſneſs of the VVarders; which ſorted to ſo good pur<g ref="char:EOLhyphen"/>poſe, as that falling on the place defective, with a party lead on by: Col. <hi>Heppeſly</hi> him<g ref="char:EOLhyphen"/>ſelf, we carried that outward Bawn, and ſome out Turrets by ſtorm, and with in a few hours after had the Caſtle ſurrendred unto us, on Quarter only for life, though
+<pb n="6" facs="tcp:161187:4"/>
+               <!-- PDF PAGE 4 -->upon entry of it, we found that the ſame was by no force of ours to be reduced, if the Defendants had not been by Divine Providence deprived of any courage to oppoſe us.</p>
+            <p>The place is juſtly looked upon by this Army, as the moſt important in the whole Province, being of that ſtrength, as not to be taken from us, ſo long as we have victual to ſupport a Garriſon there<g ref="char:EOLhyphen"/>in, whereby a paſs is kept open for us to make daily incurſions into this countrey, which hath been a principal contributary to the Rebels Army.</p>
+            <p>To the performance of which ſervice, the Soldier was enabled with no other food then the roots under, and corn above the ground (all their cattel being driven away before us out of our reach) of the latter whereof we had great and abun<g ref="char:EOLhyphen"/>dant ſtore, ſo as we have burned in this County above 20000. l. worth, whereof there could be no uſe made through want of hand-Mills (for which I have often and
+<pb n="7" facs="tcp:161187:4"/>
+               <!-- PDF PAGE 4 -->earneſtly written) the water-mills being for the moſt part either burned or de<g ref="char:EOLhyphen"/>ſerted.</p>
+            <p>From Cahir we marched this inſtant to the city of Caſhel, formerly the Metro<g ref="char:EOLhyphen"/>politans See of this Province, where the Citizens and Inhabitants (amazed at the reducing of Cahir) left open the gates, and fled to the Cathedral, a large and ſpa<g ref="char:EOLhyphen"/>cious Pile, ſeated upon a rock neer the wals of the Town, and of late very much fortified, and at preſent fully manned with divers companies of the Rebels, which will render any attempts we ſhall make upon it very difficult; notwith<g ref="char:EOLhyphen"/>ſtanding which, we determine by Gods aſsiſtance, to leave no means unaſſayed for the reducing thereof; after which, we de<g ref="char:EOLhyphen"/>ſign to fall upon the Town of Fethard an eminent walled Town, and from thence to march unto Cloumel, to reduce which, we have yet no great hopes, in regard we underſtand that place to be very regularly fortified, and ſtrongly manned, ſo as with<g ref="char:EOLhyphen"/>out
+<pb n="8" facs="tcp:161187:5"/>
+               <!-- PDF PAGE 5 -->Artillery there can be no feiſible at<g ref="char:EOLhyphen"/>tempt made upon it: But if it ſhall pleaſe God to bleſs us with ſucceſs on that place, We may then with confidence aſſert the Parliaments Intereſt in this Province to be high, and the Rebels mean, and incon<g ref="char:EOLhyphen"/>ſiderable. Sir, the Gentry of this coun<g ref="char:EOLhyphen"/>ty, by the reducing of theſe places, and the burning of their Corn, begin to make ſuit, that they may be admitted to a con<g ref="char:EOLhyphen"/>tribution, which ſhall be embraced ſo far as may conduce to the better carrying on of the War, and ſupporting of this Army, and advancing (as my zeal and duty ob<g ref="char:EOLhyphen"/>liges me) of the Parliaments ſervice: For which I have no other means, then this of keeping the field: From whence if I ſhall be driven to our Garriſons by the violence of the weather, or by an over powerful Army, I am utterly ignorant how the Ar<g ref="char:EOLhyphen"/>my may be preſerved from ſtarving, with<g ref="char:EOLhyphen"/>out ſeaſonable ſupplies from the Hono<g ref="char:EOLhyphen"/>rable Houles to whoſe ſervice I have faith<g ref="char:EOLhyphen"/>fully devoted my ſelf, remaining, Sir,</p>
+            <closer>
+               <signed>Your humble ſervant, <hi>Inchiquine.</hi>
+               </signed> 
+               <dateline>Caſhel, <date>12. <hi>Sept.</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
